@@ -1,6 +1,7 @@
 body {
   font-family: sans-serif;
-  color: #007bff;
+  color: #000000;
+  background-color: #ff0000;
 }
 body .container {
   width: 80%;
@@ -8,7 +9,7 @@ body .container {
 }
 body .container h1 {
   text-align: center;
-  color: rgb(0, 98.4, 204);
+  color: black;
 }
 
 /*# sourceMappingURL=_main.css.map */
