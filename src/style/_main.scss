@@ -1,8 +1,14 @@
-$primary-color: #007bff;
+$color-1: #000000;
+$color-2: #FFFFFF;
+$color-3: #ff0000;
+$color-4: #ffff00;
+$color-5: #c6c6c6;
+
 
 body {
   font-family: sans-serif;
-  color: $primary-color;
+  color: $color-1;
+  background-color: $color-3;
 
   .container {
     width: 80%;
