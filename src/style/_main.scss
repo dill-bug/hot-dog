@@ -4,9 +4,16 @@ $color-3: #ff0000;
 $color-4: #ffff00;
 $color-5: #c6c6c6;
 
+@font-face {
+  font-family: w95fa;
+  src: url("fonts/w95fa.woff2") format('woff2');
+}
 
 body {
-  font-family: sans-serif;
+  font-family: w95fa;
+  font-weight: normal;
+  font-style: normal;
+
   color: $color-1;
   background-color: $color-3;
 
